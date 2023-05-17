@@ -1,2 +1,2 @@
-# Curso Videojuegos 2023
+# Proyecto Final
 Cada proyecto tiene asignada su propia rama
