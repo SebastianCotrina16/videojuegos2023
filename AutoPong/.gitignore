@@ -1,0 +1,29 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop generated
+/[Aa]ssets/Plugins/
+/[Pp]rojectSettings/
+/[Dd]ependencies/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# macOS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Rider generated
+.idea/
+
+# TestResults
+/[Tt]est[Rr]esults/
