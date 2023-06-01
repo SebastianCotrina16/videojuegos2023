@@ -1486,7 +1486,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 60
-  responseSpeed: 2
+  responseSpeed: 10
   ball: {fileID: 963616809}
   minY: -2.6
   maxY: 18
